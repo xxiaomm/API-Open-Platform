@@ -1,1 +1,2 @@
-API-open-platform https://github.com/xxiaomm/API-Open-Platform
+API-open-platform
+https://github.com/xxiaomm/API-Open-Platform

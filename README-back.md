@@ -1,7 +1,16 @@
 
+#
+
+## DataBase - MySQL
+
+### Connect MySQL
 
 
-## MySQL
+
+### Create database tables using DDL commands
+
+Run `/sql/ddl.sql` file.
+
 
 ```bash
 # start MySQL in terminal
